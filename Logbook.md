@@ -1,7 +1,7 @@
 # My Logbook
 
 My first thought was to get a proper idea about what AI entails. So these are the links I got the most out of: 
-<a href="https://www.techopedia.com/definition/190/artificial-intelligence-ai">An almost dictionary-like explanation of AI</a>
+<a href="https://www.techopedia.com/definition/190/artificial-intelligence-ai">An almost dictionary-like explanation of AI</a></br>
 <a href="https://www.hackerearth.com/blog/artificial-intelligence/artificial-intelligence-101-how-to-get-started/">A blog post that explains AI as well as gives links to several resources to use.</a>
 
 This gave me a much needed insight on the types of Artificial Intelligence there are. Or atleast how they learn. I will most likely use the info of this website to do the introduction about the presentation I'm going to make about the topic as it seems to be the best entry into AI. 
