@@ -1,18 +1,19 @@
 # My Logbook
 
 My first thought was to get a proper idea about what AI entails. So these are the links I got the most out of: 
-https://www.techopedia.com/definition/190/artificial-intelligence-ai
-https://www.hackerearth.com/blog/artificial-intelligence/artificial-intelligence-101-how-to-get-started/
+<a src="https://www.techopedia.com/definition/190/artificial-intelligence-ai">An almost dictionary-like explanation of AI</a>
+<a src="https://www.hackerearth.com/blog/artificial-intelligence/artificial-intelligence-101-how-to-get-started/">A blog post that explains AI as well as gives links to several resources to use.</a>
 
 This gave me a much needed insight on the types of Artificial Intelligence there are. Or atleast how they learn. I will most likely use the info of this website to do the introduction about the presentation I'm going to make about the topic as it seems to be the best entry into AI. 
 
 Next up I wanted to atleast have some form of code to see how an AI could be made. So I started searching for the easiest AI possible and stumbled upon the following link about making a neural network with a very small amount of code. I've explained the code in the demo section of this research GIT. 
 
-https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1
+<a src="https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1">How to build a simple neural network in 9 lines!</a>
 
 Whilst searching for further explanation about how AI functions I stumbled upon the following blog which allowed me to get a better understanding on how an AI actually functions: 
-https://towardsdatascience.com/introducing-deep-learning-and-neural-networks-deep-learning-for-rookies-1-bd68f9cf5883
-https://stackoverflow.com/questions/1832076/what-is-the-difference-between-supervised-learning-and-unsupervised-learning/1854449#1854449
+
+<a src="https://towardsdatascience.com/introducing-deep-learning-and-neural-networks-deep-learning-for-rookies-1-bd68f9cf5883">Deep Learning Blog</a>
+<a src="https://stackoverflow.com/questions/1832076/what-is-the-difference-between-supervised-learning-and-unsupervised-learning/1854449#1854449">Stack Overflow: Difference between suprervised & unsupervised learning</a>
 
 There's a lot of info in there. Too much to all recap here so instead I'll be taking most of it into the presentation I'll be giving. 
 
