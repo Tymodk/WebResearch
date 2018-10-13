@@ -16,4 +16,4 @@ This is back propagation.
 
 
 Here are some cool demos that utilize Deep Learning: 
-https://cs.stanford.edu/people/karpathy/convnetjs/demo/image_regression.html
+</br><a href="https://cs.stanford.edu/people/karpathy/convnetjs/demo/image_regression.html">Image Drawing Demo</a>
