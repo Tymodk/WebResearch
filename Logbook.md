@@ -14,6 +14,7 @@ Whilst searching for further explanation about how AI functions I stumbled upon 
 https://towardsdatascience.com/introducing-deep-learning-and-neural-networks-deep-learning-for-rookies-1-bd68f9cf5883
 https://stackoverflow.com/questions/1832076/what-is-the-difference-between-supervised-learning-and-unsupervised-learning/1854449#1854449
 
+There's a lot of info in there. Too much to all recap here so instead I'll be taking most of it into the presentation I'll be giving. 
 
 
 
