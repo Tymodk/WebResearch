@@ -10,3 +10,10 @@ Next up I wanted to atleast have some form of code to see how an AI could be mad
 
 https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1
 
+Whilst searching for further explanation about how AI functions I stumbled upon the following blog which allowed me to get a better understanding on how an AI actually functions: 
+https://towardsdatascience.com/introducing-deep-learning-and-neural-networks-deep-learning-for-rookies-1-bd68f9cf5883
+https://stackoverflow.com/questions/1832076/what-is-the-difference-between-supervised-learning-and-unsupervised-learning/1854449#1854449
+
+
+
+
