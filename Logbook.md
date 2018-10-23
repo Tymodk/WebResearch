@@ -17,5 +17,8 @@ Whilst searching for further explanation about how AI functions I stumbled upon 
 
 There's a lot of info in there. Too much to all recap here so instead I'll be taking most of it into the presentation I'll be giving. 
 
+I just got back from an internship interview at a company that uses a rule-based system, instead of ML.
+So, first thing I did was to look up the differences and found this blogpost:
+<a href="https://www.linkedin.com/pulse/data-science-machine-learning-vs-rules-based-karthik-guruswamy">Rule based vs machine learning </a>
 
 
