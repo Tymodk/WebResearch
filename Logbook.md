@@ -21,4 +21,7 @@ I just got back from an internship interview at a company that uses a rule-based
 So, first thing I did was to look up the differences and found this blogpost:
 <a href="https://www.linkedin.com/pulse/data-science-machine-learning-vs-rules-based-karthik-guruswamy">Rule based vs machine learning </a>
 
+After speaking with my teacher I've also decided to go rummage around with AWS.
+<a href="https://aws.amazon.com/">AWS</a>
+
 
