@@ -17,3 +17,6 @@ This is back propagation.
 
 Here are some cool demos that utilize Deep Learning: 
 </br><a href="https://cs.stanford.edu/people/karpathy/convnetjs/demo/image_regression.html">Image Drawing Demo</a>
+
+I've found a nice little quiz to do an on-hands turing test!
+<a href="https://www.newscientist.com/article/visual-turing-test/">Turing Quiz</a>
