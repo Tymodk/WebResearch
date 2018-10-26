@@ -21,4 +21,5 @@ I just got back from an internship interview at a company that uses a rule-based
 So, first thing I did was to look up the differences and found this blogpost:
 <a href="https://www.linkedin.com/pulse/data-science-machine-learning-vs-rules-based-karthik-guruswamy">Rule based vs machine learning </a>
 
-
+While starting to prepare my slides I forgot I hadn't actually looked anything up about the Turing test, which is a bit of an important thing to mention!
+<a href="https://en.wikipedia.org/wiki/Turing_test">The Turing Test</a>
