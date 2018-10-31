@@ -26,6 +26,10 @@ While starting to prepare my slides I forgot I hadn't actually looked anything u
 <a href="https://en.wikipedia.org/wiki/Turing_test">The Turing Test</a>
 
 
+Also attended a talk about Machine learning, I've seen some real life applications of a neural network during the talk. For example how they worked with doctors to look over slides of cells to see if they're cancerous or not. Another one where it checks what someone is wearing in a picture. After talking to the speaker I've been told that if I want to actually start with AI I should check out jupyter notebook!
+
+
+
 
 
 
